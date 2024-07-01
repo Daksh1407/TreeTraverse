@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "deep-tree-backend",
     "version": "0.0.1",
     "description": "",
@@ -71,3 +72,25 @@
         "testEnvironment": "node"
     }
 }
+=======
+  "name": "deep-tree-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "ts-node": "^10.9.2"
+  }
+}
+>>>>>>> f61bba5465984a90f0c5fcb5d0dd955dfc87cb01
