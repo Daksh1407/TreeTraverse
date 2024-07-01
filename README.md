@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -187,4 +187,4 @@ For questions or support, please contact [Your Name] at [Your Email].
 ---
 
 Replace `[Your Name]` and `[Your Email]` with your details. Adjust any specifics like database choices or deployment platforms based on your project's needs. This README provides a clear structure, setup instructions, milestones, and licensing information to help users understand and contribute to your project effectively.
->>>>>>> 42bbff7acd464a3d5f804919ddc12e0520eb9262
+
