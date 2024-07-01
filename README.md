@@ -215,9 +215,7 @@ The methodology employed in this project ensures a systematic approach to buildi
 
 
 ## Contact
-For questions or support, please contact [Your Name] at [Your Email].
+For questions or support, please contact me here-> piyushdaksh1407@gmail.com.
 
 ---
-
-Replace `[Your Name]` and `[Your Email]` with your details. Adjust any specifics like database choices or deployment platforms based on your project's needs. This README provides a clear structure, setup instructions, milestones, and licensing information to help users understand and contribute to your project effectively.
 
